@@ -1,7 +1,7 @@
 # FastCaculate
-A MCDR plugin which like a caculator in the game.
+A [MCDR](https://github.com/Fallen-Breath/MCDReforged) plugin which like a caculator in the game.
 
-一个支持游戏中计算数据的MCDR插件
+一个支持游戏中计算数据的[MCDR](https://github.com/Fallen-Breath/MCDReforged)插件
 
 --------
 
@@ -10,6 +10,8 @@ A MCDR plugin which like a caculator in the game.
 `!!fc help #`显示帮助信息
 
 `!!fc caculate <comment>` #计算<comment>
+  
+`!!fc c <comment>` #计算<comment>
 
 ### 例子
 
