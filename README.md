@@ -1,5 +1,5 @@
 # MCDReforgedUselessPlugins
-Some experimental (~~or failed~~) MCDRegoreged plugins that for [MCDR](https://github.com/Fallen-Breath/MCDReforged)
+Some experimental (~~or failed~~) MCDReforged plugins that for [MCDR](https://github.com/Fallen-Breath/MCDReforged)
 
 这里收录的是一些本人写的实验性(~~失败的~~)插件，适用于[MCDR](https://github.com/Fallen-Breath/MCDReforged)
 
