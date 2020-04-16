@@ -7,17 +7,17 @@ A MCDR plugin which like a caculator in the game.
 
 ### 格式说明
 
-!!fc help #显示帮助信息
+`!!fc help #`显示帮助信息
 
-!!fc caculate <comment> #计算<comment>
+`!!fc caculate <comment>` #计算<comment>
 
 ### 例子
 
-<HackerRouter> !!fc caculate 1+1
+`!!fc caculate 1+1`
   
 2
 
-<HackerRouter> !!fc c 1
+`!!fc c 1`
   
 1
 
