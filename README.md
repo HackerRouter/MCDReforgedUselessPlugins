@@ -1,2 +1,2 @@
 # MCDReforgedUselessPlugins
-Some experimental failed MCDRegoreged plugins
+Some experimental/failed MCDRegoreged plugins
