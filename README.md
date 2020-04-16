@@ -1,13 +1,25 @@
-# MCDReforgedUselessPlugins
-Some experimental (~~or failed~~) MCDRegoreged plugins that for [MCDR](https://github.com/Fallen-Breath/MCDReforged)
-ddddddddddd
-这里收录的是一些本人写的实验性(~~失败的~~)插件，适用于[MCDR](https://github.com/Fallen-Breath/MCDReforged)
+# FastCaculate
+A MCDR plugin which like a caculator in the game.
+
+一个支持游戏中计算数据的MCDR插件
 
 --------
 
-[What is the MCDReforged?](https://github.com/Fallen-Breath/MCDReforged)
+### 格式说明
 
-[什么是MCDReforged？](https://github.com/Fallen-Breath/MCDReforged)
+!!fc help #显示帮助信息
+
+!!fc caculate <comment> #计算<comment>
+
+### 例子
+
+<HackerRouter> !!fc caculate 1+1
+  
+2
+
+<HackerRouter> !!fc c 1
+  
+1
 
 --------
 
