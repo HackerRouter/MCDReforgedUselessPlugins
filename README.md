@@ -16,5 +16,3 @@ Some experimental (~~or failed~~) MCDReforged plugins that for [MCDR](https://gi
 **特别感谢：**
 
   [Fallen_Breath](https://github.com/Fallen-Breath)
-  
-  [佛冷](https://github.com/Fallen-Breath)
