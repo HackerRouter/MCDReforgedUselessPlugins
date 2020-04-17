@@ -3,6 +3,17 @@ Some experimental (~~or failed~~) MCDReforged plugins that for [MCDR](https://gi
 
 这里收录的是一些本人写的实验性(~~失败的~~)插件，适用于[MCDR](https://github.com/Fallen-Breath/MCDReforged)
 
+开发计划表：
+
+序号 | 名称 | 说明 | 备注 
+:-: | :-: | :-: | :-: 
+1 | FastCaculate | 游戏中计算数据 | 已完成  
+2 | FastSearch| 游戏中快捷搜索 | 已完成 
+3 | FastPost| 游戏中给指定玩家发送离线信息 | 咕咕咕 
+4 | FastHelp| 快速切换模式并向聊天栏广播求救信息 |  
+5 | FastRestart| 快速重启服务器 |  
+6 | FastLogin| 登陆插件 |  
+
 --------
 
 [What is the MCDReforged?](https://github.com/Fallen-Breath/MCDReforged)
