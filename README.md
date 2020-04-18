@@ -10,9 +10,11 @@ Some experimental (~~or failed~~) MCDReforged plugins that for [MCDR](https://gi
 1 | FastCaculate | 游戏中计算数据 | 已完成  
 2 | FastSearch| 游戏中快捷搜索 | 已完成 
 3 | FastPost| 游戏中给指定玩家发送离线信息 | 咕咕咕 
-4 | FastHelp| 快速切换模式并向聊天栏广播求救信息 |  
+4 | FastHelp| 快速切换模式自救并向聊天栏广播求救信息 | 已完成
 5 | FastRestart| 快速重启服务器 |  
 6 | FastLogin| 登陆插件 |  
+7 | FastGenerate| 游戏中在线生成 营销号文章/狗屁不通文章 |  
+8 | FastFeed| 游戏中喂养电子宠物的插件 |  
 
 --------
 
