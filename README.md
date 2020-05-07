@@ -9,7 +9,7 @@ Some experimental (~~or failed~~) MCDReforged plugins that for [MCDR](https://gi
 :-: | :-: | :-: | :-: 
 1 | FastCaculate | 游戏中计算数据 | 已完成  
 2 | FastSearch| 游戏中快捷搜索 | 已完成 
-3 | FastPost| 游戏中给指定玩家发送离线信息 | 咕咕咕 
+3 | FastPost| 游戏中给指定玩家发送离线信息 | 已完成 
 4 | FastHelp| 快速切换模式自救并向聊天栏广播求救信息 | 已完成
 5 | FastRestart| 快速重启服务器 |  
 6 | FastLogin| 登陆插件 |  
@@ -29,3 +29,4 @@ Some experimental (~~or failed~~) MCDReforged plugins that for [MCDR](https://gi
 **特别感谢：**
 
   [Fallen_Breath](https://github.com/Fallen-Breath)
+
